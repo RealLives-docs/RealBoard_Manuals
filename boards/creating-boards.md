@@ -1,37 +1,37 @@
-# Creating Boards
+# Boards erstellen
 
-In RealBoard, **Boards** are the primary organizational structure used to manage and display assignments, projects, and student work. Each board is designed to hold various **Sections** that correspond to different aspects of the assignment or project.
+In RealBoard bilden **Boards** die zentrale Organisationsstruktur zur Verwaltung und Anzeige von Aufgaben, Projekten und Studierendenarbeiten. Jedes Board enthält verschiedene **Abschnitte**, die verschiedenen Aspekten der Aufgabe oder des Projekts entsprechen.
 
-## Purpose of Boards
+## Zweck von Boards
 
-Boards serve several key purposes:
+Boards erfüllen mehrere wichtige Zwecke:
 
-1. **Organization:** Boards help organize multiple assignments or projects under one central location. Each board can focus on a particular subject, theme, or project.
-2. **Assignment Management:** Teachers/Professors can use boards to group related assignments, track progress, and provide feedback.
-3. **Student Interaction:** Students can use boards to submit their work, reflect on their learning experiences, and view their peers' contributions.
+1. **Organisation**: Boards helfen dabei, mehrere Aufgaben oder Projekte an einem zentralen Ort zu organisieren. Jedes Board kann sich auf ein bestimmtes Fach, Thema oder Projekt konzentrieren.
+2. **Aufgabenverwaltung**: Lehrkräfte/Professoren können Boards nutzen, um verwandte Aufgaben zu gruppieren, den Fortschritt zu verfolgen und Feedback zu geben.
+3. **Interaktion mit Studierenden**: Studierende können Boards nutzen, um ihre Arbeiten einzureichen, ihre Lernerfahrungen zu reflektieren und die Beiträge ihrer Kommilitonen einzusehen.
 
-## Key Features of Boards
+## Hauptfunktionen von Boards
 
-1. **Title and Description:** Each board has a **Title** and a **Description** to provide context and information about the assignments or projects it contains.
-2. **Sections:** Boards are divided into **Sections** to further categorize and organize content. Sections can be customized and added as needed.
-3. **Assignments:** Within each section, teachers/professors can create and manage **Assignments**. Each assignment is linked to the relevant sections and boards.
-4. **Student Cards:** Students can create **Cards** within sections to showcase their work, reflections, and screenshots related to the assignments.
-5. **Types:** When teachers/professors create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teachers/professors within the RealBoard application will appear in the Personal tab. As a student you can only create a board in the Personal tab.
+1. **Titel und Beschreibung**: Jedes Board verfügt über einen **Titel** und eine **Beschreibung**, die Kontext und Informationen zu den enthaltenen Aufgaben oder Projekten liefern.
+2. **Abschnitte**: Boards sind in **Abschnitte** unterteilt, um Inhalte weiter zu kategorisieren und zu organisieren. Abschnitte können bei Bedarf angepasst und hinzugefügt werden.
+3. **Aufgaben**: Lehrkräfte/Professoren können innerhalb jedes Abschnitts **Aufgaben** erstellen und verwalten. Jede Aufgabe ist mit den entsprechenden Abschnitten und Boards verknüpft.
+4. **Studentenkarten**: Studierende können innerhalb der Abschnitte **Karten** erstellen, um ihre Arbeiten, Reflexionen und Screenshots zu den Aufgaben zu präsentieren.
+5. **Typen**: Wenn Lehrkräfte/Professoren eine Klasse über das RealLives-Dashboard erstellen und RealBoard darin integrieren, werden die Boards dem Tab „Aufgaben“ hinzugefügt. Von den Lehrkräften/Professoren in der RealBoard-Anwendung erstellte Boards werden im Tab „Persönlich“ angezeigt. Als Student können Sie nur im Reiter „Persönlich“ ein Board erstellen.
 
-## How to Create a Board
+## So erstellen Sie ein Board
 
-1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard, and switch to the Personal tab.
+1. <mark style="background-color:blue;">**Abschnitt „Access Boards“:**</mark> Navigieren Sie in RealBoard zum Bereich **Home** und wechseln Sie zur Registerkarte „Persönlich“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 170522.png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Create New Board:**</mark> Click on the **Add Board** button.
+2. <mark style="background-color:blue;">**Neues Board erstellen:**</mark> Klicken Sie auf die Schaltfläche **Board hinzufügen**.
 
 <figure><img src="../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Board Details:**</mark> Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
+3. <mark style="background-color:blue;">**Geben Sie die Board-Details ein:**</mark> Geben Sie einen **Titel** und optional eine **Beschreibung** für das Board sowie die Hintergrundfarbe Ihres Boards ein.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 170953.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Save:**</mark> Click **Add Board** to finalize the creation of the board.
+4. <mark style="background-color:blue;">**Speichern:**</mark> Klicken Sie auf **Board hinzufügen**, um die Erstellung des Boards abzuschließen.
 
-Boards are essential for managing assignments efficiently and providing a structured way for students and teachers/professors to interact and collaborate.
+Boards sind für die effiziente Verwaltung von Aufgaben unerlässlich und bieten Studierenden und Lehrkräften/Professoren eine strukturierte Möglichkeit zur Interaktion und Zusammenarbeit.
