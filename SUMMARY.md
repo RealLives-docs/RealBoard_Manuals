@@ -1,33 +1,33 @@
-# Table of contents
+# Inhaltsverzeichnis
 
-## Introduction
+## Einleitung
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [Übersicht](README.md)
+* [Erste Schritte](introduction/getting-started.md)
+* [Startseite](introduction/home.md)
 
-## Navigating through the UI
+## Navigation durch die Benutzeroberfläche
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and Teachers/Professors to the Board](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
+* [RealBoard-Benutzeroberfläche](navigating-through-the-ui/realboard-user-interface.md)
+* [Schüler und Lehrkräfte/Professoren zum Board einladen](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
 
 ## Boards
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [Boards erstellen](boards/creating-boards.md)
+* [Boards verwalten](boards/managing-boards.md)
 
-## Sections
+## Abschnitte
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [Abschnitte hinzufügen](sections/adding-sections.md)
+* [Anpassen Abschnitte](sections/customizing-sections.md)
 
-## Cards
+## Karten
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [Karten erstellen](cards/creating-cards.md)
+* [Karten verwalten](cards/managing-cards.md)
 
-## Realboard for Teachers/Professors
+## Realboard für Lehrkräfte/Professoren
 
-* [RealBoard and RealLives Integration Manual](realboard-for-teachers-professors/realboard-and-reallives-integration-manual.md)
-* [Creating a class with RealBoard](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
+* [Handbuch zur Integration von RealBoard und RealLives](realboard-for-teachers-professors/realboard-and-reallives-integration-manual.md)
+* [Klasse mit RealBoard erstellen](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
 * [FAQ](realboard-for-teachers-professors/faq.md)
