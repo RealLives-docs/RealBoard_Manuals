@@ -1,124 +1,124 @@
 ---
-description: >-
-  This FAQ is designed to answer common questions and provide guidance for
-  students and teacher/professor using RealBoard in conjunction with RealLives.
+Beschreibung: >-
+Diese FAQ beantwortet häufig gestellte Fragen und bietet Anleitungen für
+Studierende und Lehrkräfte/Professoren, die RealBoard in Verbindung mit RealLives verwenden.
 ---
 
 # FAQ
 
-### 1. How do I access RealBoard from RealLives?
+### 1. Wie greife ich von RealLives auf RealBoard zu?
 
-To access RealBoard from within RealLives:
+So greife ich von RealLives auf RealBoard zu:
 
-1. **Log in** to RealLives and start your gameplay.
-2. Look for the **RealBoard** button on your dashboard or during gameplay.
-3. **Click** the RealBoard button to open the interface. You’ll have three options:
-   * Add a card with a screenshot
-   * Add a card without a screenshot
-   * Go to RealBoard Home
+1. **Melde dich** bei RealLives an und starte dein Spiel.
+2. Suche die Schaltfläche **RealBoard** auf deinem Dashboard oder während des Spiels.
+3. **Klicke** auf die Schaltfläche RealBoard, um die Benutzeroberfläche zu öffnen. Du hast drei Möglichkeiten:
+* Karte mit Screenshot hinzufügen
+* Karte ohne Screenshot hinzufügen
+* Zur RealBoard-Startseite gehen
 
-### 2. What are my options when I click the RealBoard button?
+### 2. Welche Optionen habe ich, wenn ich auf die Schaltfläche RealBoard klicke?
 
-When you click the **RealBoard** button in RealLives, you are presented with three options:
+Wenn du in RealLives auf die Schaltfläche **RealBoard** klickst, hast du drei Möglichkeiten:
 
-1. **Add Card with Screenshot**: You can capture a screenshot from the game and post it to RealBoard.
-2. **Add Card without Screenshot**: You can post a card without attaching a screenshot.
-3. **Go to RealBoard Home**: You can return to the main RealBoard page where all your boards, cards, and assignments are organized.
+1. **Karte mit Screenshot hinzufügen**: Du kannst einen Screenshot aus dem Spiel erstellen und auf RealBoard veröffentlichen.
+2. **Karte ohne Screenshot hinzufügen**: Sie können eine Karte veröffentlichen, ohne einen Screenshot anzuhängen.
+3. **Zur RealBoard-Startseite**: Sie können zur RealBoard-Hauptseite zurückkehren, auf der alle Ihre Boards, Karten und Aufgaben organisiert sind.
 
-### 3. How do I create a card with or without a screenshot?
+### 3. Wie erstelle ich eine Karte mit oder ohne Screenshot?
 
-After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, you will need to:
+Nachdem Sie auf **Karte mit Screenshot hinzufügen** oder **Karte ohne Screenshot hinzufügen** geklickt haben, müssen Sie Folgendes tun:
 
-1. **Select a Section**: Choose which section in the board you want to post to. Each section corresponds to different topics or assignments.
-2. **Provide a Title**: Enter a descriptive title for your card.
-3. **Write a Description**: Provide a detailed explanation or reflection related to your gameplay.
-4. **Attach Media (Optional)**: You can add media such as images, videos, or documents.
-5. **Tag SDGs**: Select up to two **Sustainable Development Goals (SDGs)** that are relevant to your post.
-6. **Submit the Card**: Click **Add to RealBoard** to post your card to the board.
+1. **Abschnitt auswählen**: Wähle den Abschnitt im Board aus, in dem du posten möchtest. Jeder Abschnitt entspricht unterschiedlichen Themen oder Aufgaben.
+2. **Titel vergeben**: Gib einen aussagekräftigen Titel für deine Karte ein.
+3. **Beschreibung schreiben**: Gib eine ausführliche Erklärung oder Reflexion zu deinem Spielverlauf ein.
+4. **Medien anhängen (optional)**: Du kannst Medien wie Bilder, Videos oder Dokumente hinzufügen.
+5. **SDGs taggen**: Wähle bis zu zwei **Ziele für nachhaltige Entwicklung (SDGs)** aus, die für deinen Beitrag relevant sind.
+6. **Karte absenden**: Klicke auf **Zu RealBoard hinzufügen**, um deine Karte im Board zu posten.
 
-### 4. What are Sections in RealBoard?
+### 4. Was sind Abschnitte in RealBoard?
 
-**Sections** are categories within a board that organize your cards by topic or assignment. Teacher/Professor create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
+**Abschnitte** sind Kategorien innerhalb eines Boards, die deine Karten nach Thema oder Aufgabe organisieren. Lehrkräfte/Professoren erstellen diese Abschnitte basierend auf den Zielen der Klasse. Wenn du eine Karte postest, wählst du den Abschnitt aus, der am besten zu deinem Beitrag passt.
 
-For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
+Ein Abschnitt könnte beispielsweise „Persönliche Reflexion“ oder „Über das Land“ heißen und dort Ihre Arbeit zu diesem Thema veröffentlichen.
 
-### 5. What are Cards?
+### 5. Was sind Karten?
 
-**Cards** are individual tiles in RealBoard where you post your work or reflections. Each card can include a title, description, media (such as screenshots), and SDG tags. Cards are submitted within the relevant sections of a board.
+**Karten** sind einzelne Kacheln in RealBoard, auf denen Sie Ihre Arbeit oder Reflexionen veröffentlichen. Jede Karte kann einen Titel, eine Beschreibung, Medien (z. B. Screenshots) und SDG-Tags enthalten. Karten werden in den entsprechenden Abschnitten eines Boards eingereicht.
 
-### 6. What are SDGs and why do I need to tag them?
+### 6. Was sind SDGs und warum muss ich sie taggen?
 
-**SDGs** stand for **Sustainable Development Goals**, which are a set of 17 global goals designed by the United Nations to promote sustainability. When you create a card, you can select **up to two SDGs** that relate to the content of your card.
+**SDGs** steht für **Sustainable Development Goals**. Dabei handelt es sich um 17 globale Ziele der Vereinten Nationen zur Förderung der Nachhaltigkeit. Beim Erstellen einer Karte kannst du **bis zu zwei SDGs** auswählen, die sich auf den Inhalt deiner Karte beziehen.
 
-For example, if your gameplay involves discussing health issues in a country, you might tag **Goal 3: Good Health and Well-being**.
+Wenn du beispielsweise Gesundheitsprobleme in einem Land besprichst, könntest du **Ziel 3: Gesundheit und Wohlbefinden** markieren.
 
-### 7. How do I know which board I’m posting to?
+### 7. Woher weiß ich, in welchem ​​Board ich poste?
 
-When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher/professor sets up the board when they create an assignment in RealBoard.
+Beim Erstellen einer Karte wird oben im Fenster der **Boardname** angezeigt. Er zeigt dir, zu welchem ​​Kurs oder welcher Aufgabe das Board gehört. Dein Lehrer/deine Lehrerin richtet das Board ein, wenn er/sie eine Aufgabe in RealBoard erstellt.
 
-### 8. How can I see my total number of posts or cards?
+### 8. Wie kann ich meine Gesamtzahl an Beiträgen oder Karten sehen?
 
-While you are creating or viewing a card, you will see the **Total Number of Cards** posted by you in that class or assignment. This helps you keep track of your progress.
+Während du eine Karte erstellst oder ansiehst, wird dir die **Gesamtanzahl der Karten** angezeigt, die du in diesem Kurs oder dieser Aufgabe gepostet hast. So behältst du deinen Fortschritt im Auge.
 
-### 9. What if I can’t upload a screenshot or media file?
+### 9. Was ist, wenn ich keinen Screenshot oder keine Mediendatei hochladen kann?
 
-If you’re having trouble uploading a screenshot or media file, check the following:
+Wenn Sie Probleme beim Hochladen eines Screenshots oder einer Mediendatei haben, überprüfen Sie Folgendes:
 
-* Ensure the file is the correct format (e.g., .jpg, .png for images, .mp4 for videos).
-* Check the file size; large files may not upload easily.
-* Verify your internet connection is stable.
+* Stellen Sie sicher, dass die Datei das richtige Format hat (z. B. .jpg, .png für Bilder, .mp4 für Videos).
+* Überprüfen Sie die Dateigröße; große Dateien lassen sich möglicherweise nicht problemlos hochladen.
+* Stellen Sie sicher, dass Ihre Internetverbindung stabil ist.
 
-If issues persist, contact support or your teacher/professor for help.
+Wenn die Probleme weiterhin bestehen, wenden Sie sich an den Support oder Ihren Lehrer/Professor.
 
-### 10. What happens after I submit my card?
+### 10. Was passiert, nachdem ich meine Karte eingereicht habe?
 
-Once you submit your card:
+Sobald Sie Ihre Karte eingereicht haben:
 
-1. Your card will be posted in the relevant section of the board.
-2. It will be visible to your teacher/professor and classmates.
-3. Your teacher/professor may provide feedback or comments on your card.
-4. You can always view or edit your card by returning to the board.
+1. Ihre Karte wird im entsprechenden Bereich des Boards veröffentlicht.
+2. Sie ist für Ihren Lehrer/Professor und Ihre Mitschüler sichtbar.
+3. Ihr Lehrer/Professor kann Feedback oder Kommentare zu Ihrer Karte hinterlassen.
+4. Sie können Ihre Karte jederzeit ansehen oder bearbeiten, indem Sie zum Board zurückkehren.
 
-### 11. How do I access the RealBoard Home page?
+### 11. Wie greife ich auf die RealBoard-Startseite zu?
 
-If you select the **Go to RealBoard Home** option:
+Wenn Sie die Option **Zur RealBoard-Startseite** auswählen:
 
-* You will be redirected to the main RealBoard page where all your boards, sections, and cards are displayed.
-* From here, you can manage your cards, explore different boards, and view the progress of your classmates.
+* Sie werden zur RealBoard-Hauptseite weitergeleitet, auf der alle Ihre Boards, Bereiche und Karten angezeigt werden.
+* Von hier aus können Sie Ihre Karten verwalten, verschiedene Boards erkunden und den Fortschritt Ihrer Mitschüler verfolgen.
 
-### 12. What notifications will I receive?
+### 12. Welche Benachrichtigungen erhalte ich?
 
-You will receive notifications in RealBoard for:
+Sie erhalten in RealBoard Benachrichtigungen für:
 
-* **New Class or Board**: When your teacher/professor creates a new class and you are added to it.
-* **Assignment Updates**: Any updates related to assignments or posts in your boards.
-* **Feedback on Cards**: When your teacher/professor provides feedback on a card you posted.
+* **Neue Klasse oder neues Board**: Wenn Ihr Lehrer/Professor eine neue Klasse erstellt und Sie hinzugefügt werden.
+* **Aufgabenaktualisierungen**: Alle Aktualisierungen zu Aufgaben oder Beiträgen in Ihren Boards.
+* **Feedback zu Karten**: Wenn Ihr Lehrer/Professor Feedback zu einer von Ihnen geposteten Karte gibt.
 
-### 13. Can I edit a card after posting it?
+### 13. Kann ich eine Karte nach dem Posten bearbeiten?
 
-Yes, you can edit your card after posting:
+Ja, Sie können Ihre Karte nach dem Posten bearbeiten:
 
-1. Go to the board where you submitted the card.
-2. Find the card you wish to edit.
-3. Click the **Edit** button to update the title, description, media, or SDG tags.
-4. Save your changes.
+1. Gehen Sie zu dem Board, auf dem Sie die Karte eingereicht haben.
+2. Suchen Sie die Karte, die Sie bearbeiten möchten.
+3. Klicken Sie auf die Schaltfläche **Bearbeiten**, um Titel, Beschreibung, Medien oder SDG-Tags zu aktualisieren.
+4. Speichern Sie Ihre Änderungen.
 
-### 14. What if I’m added to a new class in RealBoard?
+### 14. Was passiert, wenn ich in RealBoard zu einem neuen Kurs hinzugefügt werde?
 
-If your teacher/professor adds you to a new class:
+Wenn Ihr Lehrer/Professor Sie zu einem neuen Kurs hinzufügt:
 
-* You will receive a **notification** letting you know that you’ve been added to a class.
-* A new **board** will automatically be created for the class in RealBoard.
-* You can access the board and start posting cards related to the class assignment.
+* Sie erhalten eine **Benachrichtigung**, dass Sie einem Kurs hinzugefügt wurden.
+* Für den Kurs wird automatisch ein neues **Board** in RealBoard erstellt.
+* Sie können auf das Board zugreifen und Karten zur Kursaufgabe posten.
 
-### 15. What should I do if I can’t see my class or board?
+### 15. Was kann ich tun, wenn ich meinen Kurs oder mein Board nicht sehen kann?
 
-If you cannot see your class or board in RealBoard:
+Wenn Sie Ihren Kurs oder Ihr Board in RealBoard nicht sehen können:
 
-1. Check your notifications for updates on new classes or boards.
-2. Ensure that you are logged in with the correct student account.
-3. Contact your teacher/professor to confirm that you’ve been added to the correct class.
+1. Überprüfen Sie Ihre Benachrichtigungen auf Updates zu neuen Kursen oder Boards.
+2. Stellen Sie sicher, dass Sie mit dem richtigen Studierendenkonto angemeldet sind.
+3. Wenden Sie sich an Ihren Lehrer/Professor, um zu bestätigen, dass Sie der richtigen Klasse zugewiesen wurden.
 
-If you still have trouble, you may need to contact RealBoard support.
+Wenn weiterhin Probleme auftreten, wenden Sie sich bitte an den RealBoard-Support.
 
 ***
