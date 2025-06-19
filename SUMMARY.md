@@ -1,34 +1,34 @@
-# Table of contents
+# Inhaltverzeichnis
 
-## Introduction
+## Einführung
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [Überblick](README.md)
+* [Erste Schritte](introduction/getting-started.md)
+* [Startseite](introduction/home.md)
 
-## Navigating through the UI
+## Navigieren durch die Benutzeroberfläche
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
+* [RealBoard-Benutzeroberfläche](navigating-through-the-ui/realboard-user-interface.md)
 
 ## Boards
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [Boards erstellen](boards/creating-boards.md)
+* [Vorstände](boards/managing-boards.md)
 
-## Sections
+## Abschnitte
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [Abschnitte hinzufügen](sections/adding-sections.md)
+* [Anpassen von Abschnitten](sections/customizing-sections.md)
 
-## Cards
+## Karte
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [Karten erstellen](cards/creating-cards.md)
+* [Karten verwalten](cards/managing-cards.md)
 
-## Accessing RealBoard
+## Zugriff auf RealBoard
 
-* [Through the RealLives Dashboard](accessing-realboard/through-the-reallives-dashboard.md)
-* [When Added to a Class](accessing-realboard/when-added-to-a-class.md)
+* [Über das RealLives Dashboard](accessing-realboard/through-the-reallives-dashboard.md)
+* [Beim Hinzufügen zu einer Klasse](accessing-realboard/when-added-to-a-class.md)
 
 ***
 
