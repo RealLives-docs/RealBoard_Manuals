@@ -1,7 +1,7 @@
 ---
 Beschreibung: >-
-Diese FAQ beantwortet häufig gestellte Fragen und bietet Anleitungen für
-Studierende und Lehrkräfte/Professoren, die RealBoard in Verbindung mit RealLives verwenden.
+  Diese FAQ beantwortet häufig gestellte Fragen und bietet Anleitungen für
+  Studierende und Lehrkräfte/Professoren, die RealBoard in Verbindung mit RealLives verwenden.
 ---
 
 # FAQ
