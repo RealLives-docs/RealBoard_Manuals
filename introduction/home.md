@@ -20,4 +20,3 @@ Um Zeit zu sparen, finden Sie hier Links zu bestimmten Seiten, die Sie mögliche
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-* #### Wie können Lehrkräfte/Professoren RealBoard verwenden?
