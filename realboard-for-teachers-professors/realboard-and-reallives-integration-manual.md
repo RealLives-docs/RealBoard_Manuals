@@ -1,10 +1,10 @@
-# RealBoard and RealLives Integration Manual
+# Handbuch zur Integration von RealBoard und RealLives
 
-This manual provides guidance on using RealBoard in conjunction with RealLives classes. Teachers/Professors can create classes with assignments and integrate RealBoard to enhance student engagement and feedback.
+Dieses Handbuch bietet Anleitungen zur Verwendung von RealBoard in Verbindung mit RealLives-Kursen. Lehrkräfte und Professoren können Kurse mit Aufgaben erstellen und RealBoard integrieren, um die Beteiligung und das Feedback der Studierenden zu verbessern.
 
-## Purpose of Integration
+## Zweck der Integration
 
-The integration allows teachers/professors to:
-- Create and manage classes with RealLives assignments.
-- Utilize RealBoard for posting and sharing student work and reflections.
-- Facilitate better interaction and feedback between students and teachers/professors.
+Die Integration ermöglicht Lehrkräften und Professoren:
+– Kurse mit RealLives-Aufgaben zu erstellen und zu verwalten.
+– RealBoard zum Posten und Teilen von Arbeiten und Reflexionen der Studierenden zu nutzen.
+– Die Interaktion und das Feedback zwischen Studierenden und Lehrkräften zu verbessern.
