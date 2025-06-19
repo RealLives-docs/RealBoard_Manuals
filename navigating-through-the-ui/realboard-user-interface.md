@@ -1,61 +1,59 @@
 ---
-description: Exploring all the features RealBoard has to offer
+Beschreibung: Entdecken Sie alle Funktionen von RealBoard
 ---
 
-# RealBoard User Interface
+# RealBoard-Benutzeroberfläche
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-The RealBoard interface is designed to provide an intuitive and organized user experience. Below is a guide to understanding the various elements of the UI, starting from the left side and moving across the screen.
+Die RealBoard-Oberfläche ist für eine intuitive und übersichtliche Benutzerführung konzipiert. Nachfolgend finden Sie eine Anleitung zum Verständnis der verschiedenen Elemente der Benutzeroberfläche, beginnend auf der linken Seite und sich über den gesamten Bildschirm bewegend.
 
-## Numbers are assigned with information below -&#x20;
+## Nummern sind den unten stehenden Informationen zugeordnet -&#x20;
 
-## 1. Board Information
+## 1. Board-Informationen
 
-At the top left of the screen, you will find key information about the board you are viewing:
+Oben links auf dem Bildschirm finden Sie wichtige Informationen zum angezeigten Board:
 
-* **Created By**: Displays the name of the person who created the board.
-* **Created On**: Shows the date when the board was created.
-* **Board Title**: In bold, the title of the board is displayed (e.g., "Born in a country where the marriage age is the lowest").
-* **Total Sections**: In brackets next to the board title, you can see the total number of sections within the board.
+* **Erstellt von**: Zeigt den Namen der Person an, die das Board erstellt hat.
+* **Erstellt am**: Zeigt das Datum an, an dem das Board erstellt wurde.
+* **Board-Titel**: Der Titel des Boards wird fett gedruckt (z. B. „Geboren in einem Land mit dem niedrigsten Heiratsalter“).
+* **Abschnitte gesamt**: In Klammern neben dem Board-Titel wird die Gesamtzahl der Abschnitte innerhalb des Boards angezeigt.
+## 2. Suchleiste
 
-## 2. Search Bar
+Rechts neben dem Boardtitel befindet sich die Suchleiste. Hier können Sie nach bestimmten Texten, Kartennamen, Stichwörtern oder anderen Inhalten suchen. So finden Sie schnell Informationen, ohne die einzelnen Abschnitte manuell durchsuchen zu müssen.
 
-To the right of the board title, you will see a **Search Bar**. This allows you to search for specific text, card names, keywords, or other content within the board. It helps you quickly locate information without manually browsing through the sections.
+## 3. Benachrichtigungssymbol
 
-## 3. Notification Icon
+Neben der Suchleiste befindet sich das Benachrichtigungssymbol. Dieses Symbol informiert Sie über neue Benachrichtigungen, z. B. Kommentare zu Ihren Beiträgen, Updates von Dozenten/Professoren oder neue Aufgaben. Ein roter Punkt zeigt ungelesene Benachrichtigungen an.
 
-Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teachers/professors, or new assignments. A red dot will indicate when you have unread notifications.
+## 4. Sprachwechselsymbol
 
-## 4. Language Change Icon
+Mit dem Sprachwechselsymbol können Sie die Sprache der Benutzeroberfläche ändern. RealBoard unterstützt derzeit drei Sprachen:
 
-The **Language Change Icon** allows you to switch the interface language. Currently, RealBoard supports three languages:
+* Englisch**
+* Schwedisch**
+* Koreanisch**
 
-* **English**
-* **Swedish**
-* **Korean**
+Sie können die Sprache jederzeit ändern, indem Sie auf das Symbol klicken und Ihre gewünschte Sprache auswählen.
+##5. Minimieren/Maximieren
 
-You can change the language at any time by clicking the icon and selecting your preferred language.
+Rechts neben dem Sprachsymbol befindet sich das **Minimieren/Maximieren**-Symbol. Damit können Sie die Größe des Oberflächenfensters ändern und so in einer kompakteren Ansicht arbeiten oder es vergrößern, um alle Bereiche und Karten besser zu sehen.
 
-## 5. Minimize/Maximize Icon
+## 6. Benutzerprofil
 
-To the right of the language icon, there is the **Minimize/Maximize Icon**. This allows you to toggle the size of the interface window, letting you work in a more compact view or expand it for better visibility of all sections and cards.
+Ganz rechts in der oberen Leiste befindet sich der **Benutzerprofil-Kreis**. Er zeigt Ihr Profilbild und Ihren Benutzernamen an. Klicken Sie darauf, um auf Ihre Kontoeinstellungen und Profiloptionen zuzugreifen.
 
-## 6. User Profile
+## 7. Home-Button
 
-On the far right of the top bar, there is a **User Profile Circle**. This displays your profile picture and username. Clicking on this will give you access to your account settings and profile options.
+Unterhalb der oberen Leiste links befindet sich der **Home-Button**. Klicken Sie darauf, um zur RealBoard-Startseite zu gelangen, wo Sie alle Ihre Boards anzeigen und aufrufen können.
 
-## 7. Home Button
+## 8. Filteroptionen
 
-Below the top bar, on the left, you will find the **Home Button**. Clicking this will take you to the main RealBoard homepage, where you can view and access all of your boards.
+Neben der Home-Schaltfläche befindet sich das **Filtersymbol**. Es bietet zwei Filtertypen, mit denen Sie relevante Inhalte im Board sortieren und finden können:
 
-## 8. Filter Options
-
-Next to the Home button is the **Filter Icon**, which provides two types of filters to help you sort and find relevant content on the board:
-
-1. **Common Filter**:
-   * **Most Commented Card**: Sorts the cards in the board by the number of comments.
-   * **Most Reacted Card**: Sorts the cards based on the number of reactions.
-2. **Filter by User**:
-   * Allows you to filter and view the cards and sections posted by specific users in the board.
+1. **Allgemeiner Filter**:
+* **Meistkommentierte Karte**: Sortiert die Karten im Board nach der Anzahl der Kommentare.
+* **Meistreagierte Karte**: Sortiert die Karten nach der Anzahl der Reaktionen.
+2. **Nach Benutzer filtern**:
+* Ermöglicht das Filtern und Anzeigen der von bestimmten Benutzern im Board geposteten Karten und Abschnitte.
 
