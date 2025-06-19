@@ -1,46 +1,45 @@
-# Creating Cards
+# Karten erstellen
 
-In RealBoard, **Cards** are individual tiles within a Section where students can document and share their work, reflections, and other relevant content. Each card represents a discrete piece of work or an individual entry related to the assignments and activities in the section.
+In RealBoard sind **Karten** einzelne Kacheln innerhalb eines Abschnitts, in denen Schüler ihre Arbeiten, Reflexionen und andere relevante Inhalte dokumentieren und teilen können. Jede Karte stellt eine einzelne Arbeit oder einen einzelnen Eintrag zu den Aufgaben und Aktivitäten des Abschnitts dar.
 
-## Purpose of Cards
+## Zweck der Karten
 
-Cards serve several important functions:
+Karten erfüllen mehrere wichtige Funktionen:
 
-1. **Showcase Work:** Allow students to present their completed assignments, projects, or reflections in a structured and accessible format.
-2. **Encourage Reflection:** Provide a space for students to share their thoughts, insights, and experiences related to their tasks or learning process.
-3. **Facilitate Interaction:** Enable teachers/professors and peers to view, comment on, and provide feedback on the student’s work.
+1. **Arbeiten präsentieren**: Schüler können ihre abgeschlossenen Aufgaben, Projekte oder Reflexionen in einem strukturierten und verständlichen Format präsentieren.
+2. **Reflexion fördern**: Schüler können ihre Gedanken, Erkenntnisse und Erfahrungen zu ihren Aufgaben oder ihrem Lernprozess austauschen.
+3. **Interaktion fördern**: Lehrkräfte/Professoren und Mitschüler können die Arbeiten der Schüler einsehen, kommentieren und Feedback geben.
 
-## Key Features of Cards
+## Wichtige Merkmale der Karten
 
-1. **Title and Description:** Each card has a **Title** and **Description**. The title briefly identifies the content of the card, while the description provides more detailed information.
-2. **Attachments:** Cards can include various relevant attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
-3. **Comments and Feedback:** Cards may have a section for comments where teachers/professors and peers can provide feedback or ask questions.
-4. **Stars**: Teachers/Professors can rate a card out of 5 stars based on the creativity of the card.
-5. **Reactions**: Students and teachers/professors can react on cards with the help of emojis.
+1. **Titel und Beschreibung**: Jede Karte hat einen **Titel** und eine **Beschreibung**. Der Titel beschreibt kurz den Inhalt der Karte, während die Beschreibung detailliertere Informationen liefert.
+2. **Anhänge**: Karten können verschiedene relevante Anhänge wie **Screenshots**, **Dateien** oder **Links** enthalten, die für den Inhalt relevant sind.
+3. **Kommentare und Feedback**: Karten können einen Kommentarbereich enthalten, in dem Lehrkräfte und Mitschüler Feedback geben oder Fragen stellen können.
+4. **Sterne**: Lehrkräfte können eine Karte je nach Kreativität mit bis zu 5 Sternen bewerten.
+5. **Reaktionen**: Schüler und Lehrkräfte können mithilfe von Emojis auf die Karten reagieren.
 
-In RealBoard, we’ve included a set of emojis for reactions to help users quickly express their thoughts and feelings about a post. These emojis— 👍 (Like), ❤️ (Love), 😂 (Funny), 😲 (Surprised), 😢 (Sad), and 😡 (Angry)— offer a range of emotional responses, allowing for a more interactive and engaging experience. By using reactions, students and teachers/professors can easily provide feedback or acknowledge a post without needing to leave a comment, making interaction faster and more fun.
+RealBoard bietet eine Reihe von Emojis für Reaktionen, mit denen Nutzer schnell ihre Gedanken und Gefühle zu einem Beitrag ausdrücken können. Diese Emojis – 👍 (Gefällt mir), ❤️ (Liebe), 😂 (Lustig), 😲 (Überrascht), 😢 (Traurig) und 😡 (Wütend) – bieten eine Reihe emotionaler Reaktionen und sorgen so für ein interaktiveres und ansprechenderes Erlebnis. Mithilfe von Reaktionen können Studierende und Lehrkräfte/Professoren ganz einfach Feedback geben oder einen Beitrag bestätigen, ohne einen Kommentar hinterlassen zu müssen. Das macht die Interaktion schneller und unterhaltsamer.
 
-## How to Create a Card
+## So erstellen Sie eine Karte
 
-1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card. Click on the **Add Card** button.
-
+1. <mark style="background-color:blue;">**Abschnitt öffnen:**</mark> Navigieren Sie zu dem Abschnitt, in dem Sie eine Karte hinzufügen möchten. Klicken Sie auf die Schaltfläche **Karte hinzufügen**.
 <figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Enter Card Details:**</mark>
+2. <mark style="background-color:blue;">**Geben Sie die Kartendetails ein:**</mark>
 
-* **Name:** Provide a concise title for the card.
-* **Description:** Add a detailed description of the content or work presented in the card.
-* **Attachments:** Upload any relevant files, audio, screenshots, videos or links.
+***Name:** Geben Sie einen prägnanten Titel für die Karte ein.
+* **Beschreibung:** Fügen Sie eine detaillierte Beschreibung des Inhalts oder der Arbeit hinzu, die auf der Karte präsentiert wird.
+* **Anhänge:** Laden Sie alle relevanten Dateien, Audiodateien, Screenshots, Videos oder Links hoch.
 
-3. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+3. <mark style="background-color:blue;">**Post:**</mark> Klicken **Veröffentlichen**, um die Karte zu erstellen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 172857.png" alt=""><figcaption></figcaption></figure>
 
 
 
-## Examples of Card Usage
+## Beispiele für die Kartennutzung
 
-* **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
-* **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
+* **Karte zur Aufgabenabgabe**: Studierende reichen ihre abgeschlossene Aufgabe ein, indem sie eine Karte mit dem Titel „Forschungsarbeit zum Klimawandel“, einer Inhaltsbeschreibung und einem Anhang der abgeschlossenen Arbeit erstellen.
+* **Karte zur persönlichen Reflexion**: Studierende reflektieren ein Gruppenprojekt, indem sie eine Karte mit dem Titel „Reflexion zur Gruppendynamik“ erstellen, ihre Erfahrungen beschreiben und einen Screenshot der Abschlusspräsentation hinzufügen.
 
-Cards provide a flexible and organized way for students to present their work and for teachers/professors to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.
+Karten bieten Studierenden eine flexible und übersichtliche Möglichkeit, ihre Arbeit zu präsentieren, und Lehrenden/Professoren die Möglichkeit, diese zu überprüfen und Feedback zu geben. Sie sind ein wesentlicher Bestandteil der RealBoard-Plattform und helfen, die Beiträge der Studierenden effektiv zu verwalten und darzustellen.
