@@ -1,10 +1,10 @@
-# Managing Cards
+# Karten verwalten
 
-To manage cards:
+So verwalten Sie Karten:
 
-1. Navigate to the section with the card.
-2. Click on the card you want to manage.
-3. Use options to **Edit** or **Delete** the card.
-4. Update details or remove the card as needed.
+1. Navigieren Sie zum Bereich mit der Karte.
+2. Klicken Sie auf die Karte, die Sie verwalten möchten.
+3. Verwenden Sie die Optionen zum **Bearbeiten** oder **Löschen** der Karte.
+4. Aktualisieren Sie die Details oder entfernen Sie die Karte nach Bedarf.
 
-Managing cards ensures that all content is relevant and up-to-date.
+Die Kartenverwaltung stellt sicher, dass alle Inhalte relevant und aktuell sind.
