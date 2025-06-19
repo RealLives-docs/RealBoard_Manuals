@@ -1,10 +1,10 @@
-# Customizing Sections
+# Abschnitte anpassen
 
-You can customize each section to fit your needs:
+Sie können jeden Abschnitt an Ihre Bedürfnisse anpassen:
 
-1. Go to the board containing the section.
-2. Click on the section you want to customize.
-3. Use the options to **Edit** the section as needed.
-4. Save your changes.
+1. Gehen Sie zum Board mit dem entsprechenden Abschnitt.
+2. Klicken Sie auf den Abschnitt, den Sie anpassen möchten.
+3. Bearbeiten Sie den Abschnitt nach Bedarf über die Optionen.
+4. Speichern Sie Ihre Änderungen.
 
-Customizing sections helps in organizing content and assignments effectively.
+Das Anpassen von Abschnitten hilft Ihnen, Inhalte und Aufgaben effektiv zu organisieren.
