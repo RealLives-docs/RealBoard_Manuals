@@ -1,46 +1,45 @@
-# Adding Sections
+# Abschnitte hinzufügen
 
-In RealBoard, **Sections** are components within a Board that help categorize and organize content related to assignments, projects, or topics. Each board can contain multiple sections, each serving a specific purpose or focus area.
+In RealBoard sind **Abschnitte** Komponenten innerhalb eines Boards, die dabei helfen, Inhalte zu Aufgaben, Projekten oder Themen zu kategorisieren und zu organisieren. Jedes Board kann mehrere Abschnitte enthalten, die jeweils einem bestimmten Zweck oder Schwerpunkt dienen.
 
-## Purpose of Sections
+## Zweck der Abschnitte
 
-Sections are designed to:
+Abschnitte dienen dazu:
 
-1. **Categorize Content:** Organize different types of content or aspects of an assignment into distinct areas for better clarity and management.
-2. **Enhance Organization:** Allow for a structured layout within a board, making it easier for students to find and work on specific tasks or assignments.
-3. **Facilitate Specific Goals:** Target different types of activities or reflections, such as project milestones, personal reflections, or SDG challenges.
+1. **Inhalte kategorisieren:** Organisieren Sie verschiedene Inhaltstypen oder Aspekte einer Aufgabe in getrennten Bereichen, um die Übersichtlichkeit und Verwaltung zu verbessern.
+2. **Organisation verbessern:** Ermöglichen Sie ein strukturiertes Layout innerhalb eines Boards, um Studierenden das Auffinden und Bearbeiten bestimmter Aufgaben zu erleichtern.
+3. **Spezifische Ziele fördern:** Fördern Sie verschiedene Arten von Aktivitäten oder Reflexionen, wie z. B. Projektmeilensteine, persönliche Reflexionen oder SDG-Herausforderungen.
 
-## Key Features of Sections
+## Hauptmerkmale der Abschnitte
 
-1. **Title:** Each section has a **Title**. The title describes the focus of the section.
-2. **Examples of Sections:**
-   * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
-   * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
-   * **Custom Sections:** Teacher/Professor can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
+1. **Titel:** Jeder Abschnitt hat einen **Titel**. Der Titel beschreibt den Schwerpunkt des Abschnitts.
+2. **Beispiele für Abschnitte:**
+* **SDG-Herausforderungen:** Abschnitte zu den Zielen für nachhaltige Entwicklung (SDGs), in denen die Schüler an entsprechenden Herausforderungen arbeiten und ihre Fortschritte dokumentieren können.
+* **Persönliche Reflexion:** Abschnitte, in denen die Schüler ihre Lernerfahrungen reflektieren, Erkenntnisse austauschen und ihre persönliche Entwicklung diskutieren.
+* **Benutzerdefinierte Abschnitte:** Lehrkräfte/Professoren können benutzerdefinierte Abschnitte erstellen, die auf spezifische Bedürfnisse oder Aufgaben zugeschnitten sind, z. B. für Gruppenprojekte, Forschungsthemen oder die Entwicklung von Fähigkeiten.
 
-## How to Add a Section
+## So fügen Sie einen Abschnitt hinzu
 
-1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section. Click on View Board.
+1. <mark style="background-color:blue;">**Öffnen Sie das Board :**</mark> Board: Navigieren Sie zu dem Board, dem Sie einen Abschnitt hinzufügen möchten. Klicken Sie auf „Board anzeigen“.
 
 <figure><img src="../.gitbook/assets/Untitled design (8).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
+2. <mark style="background-color:blue;">**Abschnitt hinzufügen:**</mark> Klicken Sie auf die Schaltfläche **Abschnitt hinzufügen**.
 
 <figure><img src="../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
+3. <mark style="background-color:blue;">**Geben Sie Abschnittsdetails ein:**</mark>
 
-* **Name:** Provide a descriptive title for the section.
-* **Description:** Provide a short description about your section so students will know what they have to post in the said section.
-* Media: Attach images, videos, audio, documents, images/youtube videos from the internet
+***Name:** Geben Sie einen aussagekräftigen Titel für den Abschnitt ein.
+* **Beschreibung:** Geben Sie eine kurze Beschreibung Ihres Abschnitts ein, damit die Studierenden wissen, was sie dort veröffentlichen sollen.
+* Medien: Fügen Sie Bilder, Videos, Audiodateien, Dokumente, Bilder/YouTube-Videos aus dem Internet hinzu.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 171733.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
+4. <mark style="background-color:blue;">**Post:**</mark> Klicken Sie auf **Veröffentlichen**, um den Abschnitt in das Board aufzunehmen.
+## Beispiele für die Verwendung von Abschnitten
 
-## Examples of Section Usage
+* **Abschnitt „SDG-Herausforderungen“:** Nutzen Sie diesen Abschnitt, um Aufgaben zu globalen Nachhaltigkeitszielen zu gruppieren. Studierende können ihre Arbeiten einreichen, ihren Fortschritt verfolgen und Feedback zu ihren Leistungen erhalten.
+* **Abschnitt „Persönliche Reflexion“:** Studierende können ihre Lernerfahrungen reflektieren, Herausforderungen diskutieren und Erkenntnisse aus ihren Projekten teilen.
 
-* **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
-* **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
-
-Sections help in organizing and structuring the content within a board, making it easier for teachers/professors and students to manage and interact with their assignments effectively.
+Abschnitte helfen bei der Organisation und Strukturierung der Inhalte innerhalb eines Boards und erleichtern Lehrenden/Professoren und Studierenden die effektive Verwaltung und Interaktion mit ihren Aufgaben.
