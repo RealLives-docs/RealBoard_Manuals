@@ -29,5 +29,5 @@
 ## Realboard für Lehrkräfte/Professoren
 
 * [Handbuch zur Integration von RealBoard und RealLives](realboard-for-teachers-professors/realboard-and-reallives-integration-manual.md)
-* [Klasse mit RealBoard erstellen](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
+* [Klassen erstellen mit Realboard](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
 * [FAQ](realboard-for-teachers-professors/faq.md)
