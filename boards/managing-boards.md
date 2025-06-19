@@ -1,8 +1,8 @@
-# Managing Boards
+# Boards verwalten
 
-To manage existing boards:
+So verwalten Sie bestehende Boards:
 
-1. Navigate to the **Boards** section.
-2. Click on the board you want to manage.
-3. Use the options to **Edit** the board as needed.
-4. Adjust settings or add new sections through the board management interface.
+1. Navigieren Sie zum Bereich **Boards**.
+2. Klicken Sie auf das Board, das Sie verwalten möchten.
+3. Nutzen Sie die Optionen, um das Board nach Bedarf zu **bearbeiten**.
+4. Passen Sie Einstellungen an oder fügen Sie neue Bereiche über die Board-Verwaltung hinzu.
