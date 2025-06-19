@@ -1,81 +1,80 @@
-# When Added to a Class
+# Bei Aufnahme in einen Kurs
 
-## When Added to a Class
+## Bei Aufnahme in einen Kurs
 
-If your teacher/professor adds you to a class with an assignment:
+Wenn Ihr Lehrer/Professor Sie mit einer Aufgabe in einen Kurs aufnimmt:
 
-1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
+1. <mark style="background-color:blue;">**Benachrichtigung:**</mark> Sie erhalten eine Benachrichtigung, dass Sie einer neuen Klasse hinzugefügt wurden.
 
 <figure><img src="../.gitbook/assets/Untitled design(23).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Class Details:**</mark> The notification will include information about the class and assignment.
-
+2. <mark style="background-color:blue;">**Klassendetails:**</mark> Die Benachrichtigung enthält Informationen zum Kurs und zur Aufgabe.
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182628.png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Start Living the Life:**</mark> Click on the "Take on an assignment" button
+3. <mark style="background-color:blue;">**Fangen Sie an, das Leben zu leben:**</mark> Klicken Sie auf die Schaltfläche „Auftrag übernehmen“
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
 
-**When you are playing RealLives:**
+**Wenn Sie RealLives spielen:**
 
 <figure><img src="../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
 
-#### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
+#### **Klicken Sie auf die Schaltfläche „RealBoard“:** Während des Spiels wird die Schaltfläche „RealBoard“ in der RealLives-Benutzeroberfläche angezeigt.
 
 <figure><img src="../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
 
-## Adding a Card in RealBoard (from within RealLives)
+## Hinzufügen einer Karte in RealBoard (aus RealLives heraus)
 
-When you click the **RealBoard** button in RealLives, you are presented with three options:
+Wenn Sie in RealLives auf die Schaltfläche **RealBoard** klicken, werden Ihnen drei Optionen angezeigt:
 
-1. **Add Card with Screenshot**
-2. **Add Card without Screenshot**
-3. **Go to RealBoard Home**
+1. **Karte mit Screenshot hinzufügen**
+2. **Karte ohne Screenshot hinzufügen**
+3. **Zur RealBoard-Startseite**
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094009.png" alt=""><figcaption></figcaption></figure>
 
-### 1. Adding a Card with or without Screenshot
+### 1. Karte mit oder ohne Screenshot hinzufügen
 
-Whether you choose to add a card with or without a screenshot, the following fields and features are common:
+Unabhängig davon, ob Sie eine Karte mit oder ohne Screenshot hinzufügen, sind die folgenden Felder und Funktionen gleich:
 
-#### Common Fields and Features:
+#### Gemeinsame Felder und Funktionen:
 
-* **Board Name**: The name of the board associated with your class is displayed at the top of the card creation window. This helps you keep track of which assignment you are working on.
-* **Character Attributes**: The name, age, gender of your current character in RealLives will also be displayed. This connects the actions you take in RealLives with the card you are posting on RealBoard.
-* **Section Name**: You can choose which section of the board to post your card in. The section names are pre-determined by your teacher/professor (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
-* **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
+* **Boardname**: Der Name des Boards, das Ihrem Kurs zugeordnet ist, wird oben im Kartenerstellungsfenster angezeigt. So behalten Sie den Überblick über die Aufgabe, an der Sie gerade arbeiten.
+* **Charakterattribute**: Name, Alter und Geschlecht Ihres aktuellen Charakters in RealLives werden ebenfalls angezeigt. Dadurch werden Ihre Aktionen in RealLives mit der Karte verknüpft, die Sie auf RealBoard veröffentlichen.
+* **Bereichsname**: Sie können wählen, in welchem ​​Bereich des Boards Ihre Karte veröffentlicht werden soll. Die Bereichsnamen werden von Ihrem Lehrer/Professor vorgegeben (z. B. „Über das Land“). Sie sehen außerdem die Gesamtzahl der bereits in diesem Bereich veröffentlichten Karten. (0), (1),...
+* **Gesamtzahl der Karten**: Sie können die Gesamtzahl der Karten sehen, die Sie bereits im Kurs gepostet haben, um Ihren Fortschritt zu verfolgen.
 
-#### If you choose to add a screenshot, you get the option of cropping the screenshot to highlight only the important information in your card
+#### Wenn Sie einen Screenshot hinzufügen, können Sie diesen zuschneiden, um nur die wichtigen Informationen auf Ihrer Karte hervorzuheben.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 132214.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
 
-#### Card Fields:
+#### Kartenfelder:
 
-* **Card Title**: Enter a descriptive title for your card. The title should reflect the content or main idea of your post (e.g., “Born in a Country with the Lowest Marriage Age”).
-* **Card Description**: This is where you provide a more detailed explanation of your post. You can format the description with bold, italics, or underline text, and you can also include lists.
-*   **Add Media**: You have the option to attach relevant media from various categories, including:
+* **Kartentitel**: Geben Sie einen aussagekräftigen Titel für Ihre Karte ein. Der Titel sollte den Inhalt oder die Hauptidee Ihres Beitrags widerspiegeln (z. B. „Geboren in einem Land mit dem niedrigsten Heiratsalter“).
+* **Kartenbeschreibung**: Hier geben Sie eine ausführlichere Erklärung zu Ihrem Beitrag ab. Sie können die Beschreibung fett, kursiv oder unterstrichen formatieren und auch Listen einfügen.
+* **Medien hinzufügen**: Sie können relevante Medien aus verschiedenen Kategorien anhängen, darunter:
 
-    * **Image** (e.g., a reference image you would like to show)
-    * **Video**
-    * **Document** (e.g., a written report or reflection)
+* **Bild** (z. B. ein Referenzbild, das Sie zeigen möchten)
+* **Video**
+* **Dokument** (z. B. ein schriftlicher Bericht oder eine Reflexion)
 
-    You can only add **one media item per category** to your card.
+Sie können Ihrer Karte nur **ein Medienelement pro Kategorie** hinzufügen.
 
-#### Tag SDGs (Sustainable Development Goals): <mark style="background-color:red;">Maximum 2</mark>
+#### Tag SDGs (Nachhaltige Entwicklungsziele): <mark style="background-color:red;">Maximum 2</mark>
 
-* **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
+* **Wähle zwei SDGs aus**: Du wirst gebeten, bis zu zwei relevante **Ziele für nachhaltige Entwicklung (SDGs)** aus der Liste von 17 auszuwählen. Diese sollten zum Thema deines Beitrags passen. Zu den SDGs gehören Ziele wie **Keine Armut**, **Hochwertige Bildung** und **Maßnahmen zum Klimaschutz**.
 
-#### Posting the Card:
+#### Karte veröffentlichen:
 
-* Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
-* Your card will be visible to your teacher/professor and classmates, and will be part of the board associated with your class.
+* Nachdem du alle Pflichtfelder (Titel, Beschreibung, Medium und SDGs) ausgefüllt hast, klicke auf die Schaltfläche **Zum RealBoard hinzufügen**, um deine Karte zu veröffentlichen.
+* Deine Karte ist für deine Lehrkraft/deinen Professor/deine Professorin und deine Mitschüler sichtbar und wird Teil des Boards, das deinem Kurs zugeordnet ist.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
-### 2. Go to RealBoard Home
+###2. Zur RealBoard-Startseite
 
-If you choose the **Go to RealBoard Home** option, you will be redirected to the RealBoard main page. Here, you can view all your boards, navigate between different sections, and manage your cards across different classes.
+Wenn Sie die Option **Zur RealBoard-Startseite** wählen, werden Sie zur RealBoard-Hauptseite weitergeleitet. Hier können Sie alle Ihre Boards einsehen, zwischen verschiedenen Bereichen navigieren und Ihre Karten klassenübergreifend verwalten.
