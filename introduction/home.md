@@ -1,16 +1,12 @@
 ---
-description: Acts like an index for all the pages that are in this manual.
+Beschreibung: Dient als Index für alle Seiten dieses Handbuchs.
 ---
 
-# Home
+# Startseite
 
-In order to save time, you will find links of specific pages that you might want to go to.
+Um Zeit zu sparen, finden Sie hier Links zu bestimmten Seiten, die Sie möglicherweise besuchen möchten.
 
-* #### What are Boards, Sections, Cards ?
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+* #### Was sind Boards, Abschnitte und Karten?
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -20,4 +16,8 @@ In order to save time, you will find links of specific pages that you might want
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-* #### How can Teachers/Professors use RealBoard ?
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+* #### Wie können Lehrkräfte/Professoren RealBoard verwenden?
