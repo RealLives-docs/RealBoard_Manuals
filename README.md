@@ -1,7 +1,6 @@
 ---
-description: >-
-  RealBoard is a social network designed for schools/universities that integrates with
-  RealLives.
+Beschreibung: >-
+  RealBoard ist ein soziales Netzwerk für Schulen und Universitäten, das mit RealLives integriert ist.
 layout:
   title:
     visible: true
@@ -15,21 +14,20 @@ layout:
     visible: true
 ---
 
-# Overview
+# Übersicht
 
-## <mark style="background-color:blue;">**Reflect, Share, Grow**</mark>
+## <mark style="background-color:blue;">**Reflektieren, Teilen, Wachsen**</mark>
 
-This tagline encapsulates the essence of what RealBoard offers to students, teachers/professors, and educational institutions. Let’s break down each element and how it ties into the core activities of the platform
+Dieser Slogan fasst zusammen, was RealBoard Schülern, Lehrkräften/Professoren und Bildungseinrichtungen bietet. Wir analysieren die einzelnen Elemente und ihre Verknüpfung mit den Kernaktivitäten der Plattform.
 
-### **Reflect**
+### **Reflektieren**
 
-* **Personal Reflection**: RealBoard encourages students to look back on their learning experiences and think critically about what they’ve learned. Through features like the "Personal Reflection" section, students can document their thoughts, insights, and feelings about the assignments they complete. This process not only reinforces learning but also helps in developing self-awareness and critical thinking skills.
+* **Persönliche Reflexion**: RealBoard ermutigt Schüler, auf ihre Lernerfahrungen zurückzublicken und kritisch darüber nachzudenken. Mit Funktionen wie dem Bereich „Persönliche Reflexion“ können Schüler ihre Gedanken, Erkenntnisse und Gefühle zu den erledigten Aufgaben dokumentieren. Dieser Prozess stärkt nicht nur das Lernen, sondern fördert auch die Entwicklung von Selbstbewusstsein und kritischem Denken.
 
-### **Share**
+### **Teilen**
 
-* **Sharing Experiences**: RealBoard provides a platform where students can share their learning experiences with peers and teachers/professors. By using Cards to upload screenshots, write posts, and share achievements within specific sections like "SDG Challenges," students are able to communicate their progress and insights in a structured yet creative way.
+* **Erfahrungen teilen**: RealBoard bietet eine Plattform, auf der Schüler ihre Lernerfahrungen mit Mitschülern und Lehrkräften/Professoren teilen können. Mithilfe von Karten können Schüler Screenshots hochladen, Beiträge verfassen und Erfolge in speziellen Abschnitten wie „SDG-Herausforderungen“ teilen. So können sie ihre Fortschritte und Erkenntnisse strukturiert und dennoch kreativ kommunizieren.
 
-### **Grow**
+### **Wachsen**
 
-* **Personal and Academic Growth**: The combination of reflection and sharing leads to growth—both personally and academically. RealBoard is designed to help students track their progress over time, set personal goals, and see how their efforts translate into growth.
-
+* **Persönliches und akademisches Wachstum**: Die Kombination aus Reflexion und Austausch führt zu persönlichem und akademischem Wachstum. RealBoard hilft Schülern, ihre Fortschritte im Laufe der Zeit zu verfolgen, persönliche Ziele zu setzen und zu sehen, wie sich ihre Bemühungen in Wachstum umsetzen.
